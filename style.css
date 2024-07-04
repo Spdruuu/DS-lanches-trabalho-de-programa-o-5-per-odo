@@ -1,0 +1,61 @@
+/* ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷ GLOBAL ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷ */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, Helvetica, Arial, sans-serif;
+  }
+
+/* ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷ NAV BAR ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷ */
+
+a {
+    color: #000000;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  
+  a:hover {
+    opacity: 0.7;
+  }
+  
+
+ /* .logo {
+    width: 50px;
+    height: 50px;
+  }  
+  
+            <p class="logo"> <img src="img/logo destiny divas.png" alt="foto de hamburger"> </p> 
+
+  espaço pra imagem */
+  
+
+  .logo {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, Helvetica, Arial, sans-serif;
+    background: #ffffff;
+    height: 8vh;
+    border-bottom: 1px solid black;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-list li {
+    letter-spacing: 3px;
+    margin-left: 32px;
+    
+  }
+
+
+  /* ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷ MAIN ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷ */
